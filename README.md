@@ -1,2 +1,2 @@
-# Jay-Barfiwala.github.io
+# chaitanya-chorawala.github.io
 Cart functionality via ReactJS
