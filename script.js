@@ -1,5 +1,5 @@
 var CartFunctionality = props => {
-  var productNames = ["Nike jordan", "Nike vapromax", "Nike zoom", "Asics tiger", "Nike airmax"];
+  var productNames = ["Nike", "Adidas", "Puma", "Reebok", "Bata"];
   var productPrices = [7500, 8500, 6500, 9500, 6700];
   var productQty = [0, 0, 0, 0, 0];
   var [qty, setQty] = React.useState(productQty);
